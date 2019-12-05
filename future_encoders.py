@@ -18,6 +18,7 @@ different columns.
 
 from __future__ import division
 ####change here
+###add divide to test
 import pandas as pd
 import numbers
 import warnings
